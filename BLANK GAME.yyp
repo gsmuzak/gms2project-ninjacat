@@ -36,6 +36,8 @@
   "resources": [
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"obj_solid","path":"objects/obj_solid/obj_solid.yy",},},
+    {"id":{"name":"obj_god","path":"objects/obj_god/obj_god.yy",},},
+    {"id":{"name":"spr_draw","path":"sprites/spr_draw/spr_draw.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
